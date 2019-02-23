@@ -1,18 +1,18 @@
 ! Blurb file created by Inform build 6M62
 
-status "/Applications/Inform.app/Contents/Resources/Internal/Miscellany/CblorbModel.html" "/Users/ggrune20/Desktop/Treasure Hunting- Pyramid Edition.inform/Build/StatusCblorb.html"
+status "/Applications/Inform.app/Contents/Resources/Internal/Miscellany/CblorbModel.html" "/Users/ggrune20/Documents/GitHub/TreasureHunter-PyramidEdition/Treasure Hunting- Pyramid Edition.inform/Build/StatusCblorb.html"
 
 
 ! Identification
 
-project folder "/Users/ggrune20/Desktop/Treasure Hunting- Pyramid Edition.inform"
-release to "/Users/ggrune20/Desktop/Treasure Hunting- Pyramid Edition.materials/Release"
+project folder "/Users/ggrune20/Documents/GitHub/TreasureHunter-PyramidEdition/Treasure Hunting- Pyramid Edition.inform"
+release to "/Users/ggrune20/Documents/GitHub/TreasureHunter-PyramidEdition/Treasure Hunting- Pyramid Edition.materials/Release"
 
 ! Blorb instructions
 
 storyfile leafname "Treasure Hunting- Pyramid Editi.gblorb"
-storyfile "/Users/ggrune20/Desktop/Treasure Hunting- Pyramid Edition.inform/Build/output.ulx" include
-ifiction "/Users/ggrune20/Desktop/Treasure Hunting- Pyramid Edition.inform/Metadata.iFiction" include
+storyfile "/Users/ggrune20/Documents/GitHub/TreasureHunter-PyramidEdition/Treasure Hunting- Pyramid Edition.inform/Build/output.ulx" include
+ifiction "/Users/ggrune20/Documents/GitHub/TreasureHunter-PyramidEdition/Treasure Hunting- Pyramid Edition.inform/Metadata.iFiction" include
 cover "/Applications/Inform.app/Contents/Resources/Internal/Miscellany/Cover.jpg"
 picture 1 "/Applications/Inform.app/Contents/Resources/Internal/Miscellany/Cover.jpg"
 
